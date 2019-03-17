@@ -24,6 +24,8 @@ A premade basic React web application will start up. It already demos typical ta
 - Routing
 - Translations
 
+[https://github.com/julius/ERTS-boilerplate](https://github.com/julius/ERTS-boilerplate)
+
 
 
 ## ERTS and React

@@ -1,7 +1,7 @@
 - Overview
     - [Concepts](overview-concepts.md)
     - [Libraries](overview-libraries.md)
-    - [Real World Example *](real-world-example.md)
+    - [RealWorld Example](real-world-example.md)
 
 - Best Practices
     - [Mutating Arrays / Objects](best-array-obj.md)
