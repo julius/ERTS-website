@@ -6,7 +6,7 @@
 
 [Learn More](#extremely-restrictive-typescript)
 [Get Started](#get-started)
-[GitHub](https://github.com/julius/ERTS/)
+[GitHub](https://github.com/julius/ERTS-boilerplate/)
 
 
 ![color](#f0f0f0)
